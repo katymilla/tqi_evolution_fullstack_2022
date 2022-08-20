@@ -1,4 +1,4 @@
-# tqi_evolution_fullstack_2022
+# tqi_evolution_fullstack_avaliacao
 
 Esse projeto foi criado como parte do processo seletivo da empresa TQI após a realização do bootcamp intitulado TQI Fullstack Developer oferecido pela Dio. Como requisitos foi solicitada a elaboração de um sistema de uma livraria, contendo a parte de controle de vendas, compra e estoque de livros.
 
